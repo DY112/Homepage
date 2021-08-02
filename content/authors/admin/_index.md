@@ -43,4 +43,4 @@ email: dongyoung.kim@yonsei.ac.kr
 ---
 DongYoung Kim is a research assistant of CIPLAB. His main research interest is solving low level photography problems using deep learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my [CV](https://drive.google.com/file/d/1nk7aYiYmrUq6o-cf4qsn0cV9KE-28tqU/view?usp=sharing).
