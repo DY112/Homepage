@@ -1,6 +1,6 @@
 ---
 role: Research Assistant of CIPLAB
-avatar_filename: profile_photo_circle.png
+avatar_filename: profile_photo_circle240.png
 bio: My research interests is deep learning application for low level photography.
 interests:
   - Artificial Intelligence
