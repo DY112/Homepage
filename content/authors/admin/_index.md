@@ -1,17 +1,17 @@
 ---
-role: Research Assistant of CIPLAB, Yonsei University
-avatar_filename: profile_photo.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Research Assistant of CIPLAB
+avatar_filename: profile_photo_circle.png
+bio: My research interests is deep learning application for low level photography.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Low Level Photography
+  - Image Enhancement
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: instagram
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
@@ -19,10 +19,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/DY112
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/dykim95
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -42,9 +42,6 @@ highlight_name: false
 title: DongYoung Kim
 email: ""
 ---
+DongYoung Kim is a research assistant of CIPLAB. His main research interest is solving low level photography problems using deep learning.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
