@@ -43,7 +43,7 @@ publication_types:
   - "1"
 image:
   caption: ""
-  focal_point: ""
+  focal_point: center
   preview_only: false
   filename: featured.png
 summary: We introduce a Large Scale Multi-Illuminant (LSMI) Dataset that
