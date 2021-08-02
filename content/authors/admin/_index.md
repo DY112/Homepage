@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.instagram.com/dong_950112
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -24,23 +24,22 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/dykim95
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Yonsei University
+    url: https://www.yonsei.ac.kr/en_sc/
+  - name: CIPLAB
+    url: https://sites.google.com/site/seonjookim
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D candidate in Computer Science
+      institution: Yonsei University
+      year: ""
+    - course: B.S in Computer Science
+      institution: Yonsei University
+      year: 2019
 superuser: true
 highlight_name: false
 title: DongYoung Kim
-email: ""
+email: dongyoung.kim@yonsei.ac.kr
 ---
 DongYoung Kim is a research assistant of CIPLAB. His main research interest is solving low level photography problems using deep learning.
 
