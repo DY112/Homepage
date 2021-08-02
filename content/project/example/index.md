@@ -12,12 +12,12 @@ external_link: Developing Deep Spatially Varying Auto White Balance Algorithm
 url_slides: ""
 title: Developing Deep Spatially Varying Auto White Balance Algorithm
 links:
-  - icon: ""
-    icon_pack: null
+  - icon: file-pdf
+    icon_pack: ai
     name: PDF
     url: https://twitter.com/georgecushen
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
 url_code: ""
 ---
