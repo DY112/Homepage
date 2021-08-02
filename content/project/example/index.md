@@ -10,7 +10,7 @@ date: 2020-10-01T04:30:18.107Z
 tags:
   - White Balance
   - Dataset
-external_link: Developing Deep Spatially Varying Auto White Balance Algorithm
+external_link: /
 url_slides: ""
 links:
   - icon: file-pdf
@@ -20,5 +20,6 @@ links:
 image:
   caption: ""
   focal_point: ""
+  filename: featured.png
 url_code: ""
 ---
