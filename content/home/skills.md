@@ -20,6 +20,6 @@ feature:
     name: Photography
 design:
   background:
-    image: skill.png
+    image: ""
     image_darken: ""
 ---
