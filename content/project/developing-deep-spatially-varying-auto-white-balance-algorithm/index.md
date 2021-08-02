@@ -5,7 +5,7 @@ summary: Industry-academic cooperation project with Samsung Advanced Institute
   of Technology (SAIT).
 draft: false
 featured: true
-external_link: /
+external_link: "1"
 image:
   filename: featured.png
   focal_point: Smart
