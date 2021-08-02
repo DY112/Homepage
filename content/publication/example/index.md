@@ -45,7 +45,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: lsmi_teaser.png
+  filename: featured.png
 summary: We introduce a Large Scale Multi-Illuminant (LSMI) Dataset that
   contains 7,486 images, captured with three different cameras on more than
   2,700 scenes with two or three illuminants. For each image in the dataset, the
@@ -56,11 +56,11 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-publication: 2021 ICCV
+publication: ICCV 2021
 featured: true
-date: 2021-08-02T15:05:45.449Z
+date: 2021-10-10T15:10:38.400Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
