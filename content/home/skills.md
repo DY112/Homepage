@@ -21,5 +21,5 @@ feature:
 design:
   background:
     image: skill.png
-    image_darken: 0.5
+    image_darken: 0.3
 ---
