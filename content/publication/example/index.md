@@ -48,10 +48,7 @@ image:
   filename: featured.png
 summary: We introduce a Large Scale Multi-Illuminant (LSMI) Dataset that
   contains 7,486 images, captured with three different cameras on more than
-  2,700 scenes with two or three illuminants. For each image in the dataset, the
-  new dataset provides not only the pixel-wise ground truth illumination but
-  also the chromaticity of each illuminant in the scene and the mixture ratio of
-  illuminants per pixel.
+  2,700 scenes with two or three illuminants.
 url_dataset: ""
 url_project: ""
 url_source: ""
@@ -65,4 +62,4 @@ url_poster: ""
 url_code: ""
 doi: ""
 ---
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary materials will be updated soon, including online access to our LSMI dataset.
