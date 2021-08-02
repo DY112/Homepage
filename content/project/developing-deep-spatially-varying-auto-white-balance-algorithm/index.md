@@ -9,8 +9,7 @@ tags:
   - Color Constancy
   - Dataset
   - Samsung
-categories:
-  - Color Constancy
+categories: []
 external_link: /project/developing-deep-spatially-varying-auto-white-balance-algorithm/
 image:
   filename: featured.png
