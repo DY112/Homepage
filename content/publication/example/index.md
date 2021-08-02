@@ -37,7 +37,7 @@ tags:
   - Dataset
 projects:
   - Developing Deep Spatially Varying Auto White Balance Algorithm
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
