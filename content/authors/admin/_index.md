@@ -11,9 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/dong_950112
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -23,6 +20,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dykim95
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/dong_950112
 organizations:
   - name: Yonsei University
     url: https://www.yonsei.ac.kr/en_sc/
