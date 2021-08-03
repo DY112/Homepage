@@ -10,7 +10,7 @@ tags:
   - Dataset
   - Samsung
 categories: []
-external_link: /project/developing-deep-spatially-varying-auto-white-balance-algorithm/
+external_link: 
 image:
   filename: featured.png
   focal_point: Smart

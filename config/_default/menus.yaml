@@ -27,6 +27,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- - name: CV
-   url: https://drive.google.com/file/d/1nk7aYiYmrUq6o-cf4qsn0cV9KE-28tqU/view
-   weight: 70
+  - name: CV
+    url: https://drive.google.com/file/d/1nk7aYiYmrUq6o-cf4qsn0cV9KE-28tqU/view
+    weight: 70
