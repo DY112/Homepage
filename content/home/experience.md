@@ -33,5 +33,5 @@ design:
     image: ""
     gradient_start: "#ddfb68"
     gradient_end: "#e4e4e4"
-    text_color_light: true
+    text_color_light: false
 ---
