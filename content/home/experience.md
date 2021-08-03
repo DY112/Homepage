@@ -30,5 +30,5 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: skill.png
+    image: exp.jpg
 ---
