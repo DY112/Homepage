@@ -17,6 +17,21 @@ ko:
    description: 한국어 세팅
  menu:
    main:
-     - name: 대하여...
-       url: '#about'
-       weight: 1
+    - name: 홈
+      url: '#about'
+      weight: 10
+    - name: 프로젝트
+      url: '#projects'
+      weight: 20
+    - name: 출판
+      url: '#featured'
+      weight: 30
+    - name: 포스트
+      url: '#posts'
+      weight: 40
+    - name : 태그
+      url: '/tags'
+      weight : 50
+    - name: 이력서
+      url: https://drive.google.com/file/d/1nk7aYiYmrUq6o-cf4qsn0cV9KE-28tqU/view
+      weight: 70
