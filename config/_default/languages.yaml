@@ -2,20 +2,18 @@
 #   Create a section for each of your site's languages.
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
-# Default language
+# 기본 언어 : 영어
 en:
   languageCode: en-us
   contentDir: content/en
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
 
-# Uncomment the lines below to configure your website in a second language.
+# 한국어 지원 세팅
 ko:
  languageCode: ko
  contentDir: content/ko
  title: DongYoung Kim
  params:
-   description: 한국어 세팅
+   description: 김동영
  menu:
    main:
     - name: 홈

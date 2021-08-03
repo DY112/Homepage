@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Featured Publications
+title: 출판 논문
 subtitle: ""
 
 content:

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Recent Posts
+title: 최근 포스트
 subtitle:
 
 content:
