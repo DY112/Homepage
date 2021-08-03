@@ -33,7 +33,7 @@ abstract: We introduce a Large Scale Multi-Illuminant (LSMI) Dataset that
   balancing.
 tags:
   - ICCV
-  - Color Constancy
+  - White Balance
   - Dataset
 projects:
   - Developing Deep Spatially Varying Auto White Balance Algorithm

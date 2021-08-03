@@ -12,9 +12,9 @@ experience:
     description: |-2
         Participated in the following projects:
         
-        * Develpment of Noise Removal Algorithm in Road Image  
+        * Developing Noise Removal Algorithm in Road Image  
         Industry-academic cooperation project with Hyundai MNSoft.
-        * Develpment of Spatially Varying Auto White Balance Algorithm  
+        * Developing Spatially Varying Auto White Balance Algorithm  
         Industry-academic cooperation project with Samsung Advanced Institute of Technology (SAIT).
   - title: Undergraduate Intern
     company: CIPLAB
