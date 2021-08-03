@@ -41,8 +41,8 @@ experience:
     company_url: 'https://sites.google.com/site/seonjookim'
     company_logo: ciplab
     location: Seoul, Korea
-    date_start: '2019-01'
-    date_end: '2019-08'
+    date_start: '2019-01-01'
+    date_end: '2019-08-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
