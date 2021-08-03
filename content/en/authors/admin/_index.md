@@ -41,7 +41,7 @@ highlight_name: false
 title: DongYoung Kim
 email: dongyoung.kim@yonsei.ac.kr
 ---
-My name is DongYoung Kim, research assistant of CIPLAB.  
+My name is DongYoung Kim, research assistant of CIPLAB. 🧑🏻‍💻  
 I received a bachelor's degree in computer science at Yonsei University, and Ph.D candidate of computer science, Yonsei University.  
 My main research interest is solving low level photography (ex. White Balance, Low Light Image Enhancement) problems using deep learning.
 
