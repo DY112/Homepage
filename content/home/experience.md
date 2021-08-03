@@ -31,7 +31,7 @@ design:
   columns: "2"
   background:
     image: exp.jpg
-    gradient_start: "#ddfb68"
-    gradient_end: "#e4e4e4"
+    gradient_start:
+    gradient_end: 
     text_color_light: false
 ---
