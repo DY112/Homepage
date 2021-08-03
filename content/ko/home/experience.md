@@ -23,7 +23,7 @@ experience:
     location: 서울, 대한민국
     date_start: 2019-01-01
     date_end: 2019-08-01
-    description: _GAN 기반 Face Aging 알고리즘 개발_
+    description: **GAN 기반 Face Aging 알고리즘 개발**
 widget_id: experience
 headless: true
 weight: 40
