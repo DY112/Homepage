@@ -13,7 +13,8 @@ experience:
         Participated in the following projects:
         
         * Develpment of Noise Removal Algorithm in Road Image
-        * Develpment of Spatially Varying Auto White Balance Algorithm
+        * Develpment of Spatially Varying Auto White Balance Algorithm  
+        Industry-academic cooperation project with Samsung Advanced Institute of Technology (SAIT).
   - title: Undergraduate Intern
     company: CIPLAB
     company_url: https://sites.google.com/site/seonjookim
