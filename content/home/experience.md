@@ -30,11 +30,10 @@ experience:
     date_start: '2019-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Participated in the following projects:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Develpment of Noise Removal Algorithm in Road Image
+        * Develpment of Spatially Varying Auto White Balance Algorithm
         
   - title: Undergraduate Intern
     company: CIPLAB
@@ -43,7 +42,7 @@ experience:
     location: Seoul, Korea
     date_start: '2019-01-01'
     date_end: '2019-08-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Conducted "GAN based Face aging algorithm" research.
 
 design:
   columns: '2'
