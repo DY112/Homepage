@@ -12,9 +12,9 @@ experience:
     description: |-2
         Participated in the following projects:
         
-        * Developing Noise Removal Algorithm in Road Image  
+        * Developing _Noise Removal Algorithm in Road Image_  
         with Hyundai MNSoft.
-        * Developing Spatially Varying Auto White Balance Algorithm  
+        * Developing _Spatially Varying Auto White Balance Algorithm_  
         with Samsung Advanced Institute of Technology (SAIT).
   - title: Undergraduate Intern
     company: CIPLAB
@@ -23,7 +23,7 @@ experience:
     location: Seoul, Korea
     date_start: 2019-01-01
     date_end: 2019-08-01
-    description: Conducted "GAN based Face aging algorithm" research.
+    description: Participated _Developing GAN based Face aging algorithm_ research.
 widget_id: experience
 headless: true
 weight: 40
