@@ -1,6 +1,7 @@
 ---
 widget: featurette
 widget_id: skills
+draft: true
 headless: true
 weight: 30
 title: Skills
