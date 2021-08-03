@@ -2,28 +2,28 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Research Assistant
+  - title: 연구원
     company: CIPLAB
     company_url: https://sites.google.com/site/seonjookim
     company_logo: ciplab
-    location: Seoul, Korea
+    location: 서울, 대한민국
     date_start: 2019-08-01
     date_end: ""
     description: |-2
-        Participated in the following projects:
+        참여한 프로젝트:
         
-        * Developing _Noise Removal Algorithm in Road Image_  
-        with Hyundai MNSoft.
-        * Developing _Spatially Varying Auto White Balance Algorithm_  
-        with Samsung Advanced Institute of Technology (SAIT).
-  - title: Undergraduate Intern
+        * _도로 이미지에서의 노이즈 제거 알고리즘_  개발
+        현대 엠앤소프트 산학 협력 과제
+        * _픽셀 수준 오토 화이트 밸런스(AWB) 알고리즘_ 개발  
+        삼성 종합기술원(SAIT) 산학 협력 과제
+  - title: 학부 인턴십
     company: CIPLAB
     company_url: https://sites.google.com/site/seonjookim
     company_logo: ciplab
-    location: Seoul, Korea
+    location: 서울, 대한민국
     date_start: 2019-01-01
     date_end: 2019-08-01
-    description: Participated _Developing GAN based Face aging algorithm_ research.
+    description: _GAN 기반 Face Aging 알고리즘 개발_
 widget_id: experience
 headless: true
 weight: 40

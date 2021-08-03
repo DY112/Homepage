@@ -1,7 +1,7 @@
 ---
-role: Research Assistant of CIPLAB
+role: CIPLAB 연구원
 avatar_filename: avatar.png
-bio: My research interests is deep learning application for low level photography.
+bio: Low Level Photography에 관한 다양한 문제를 딥러닝을 이용하여 해결하는 연구를 합니다.
 interests:
   - Artificial Intelligence
   - Deep Learning
@@ -30,19 +30,19 @@ organizations:
     url: https://sites.google.com/site/seonjookim
 education:
   courses:
-    - course: Ph.D candidate in Computer Science
-      institution: Yonsei University
+    - course: 석/박사 통합과정
+      institution: 연세대학교
       year: ""
-    - course: B.S in Computer Science
-      institution: Yonsei University
+    - course: 컴퓨터과학 학사
+      institution: 연세대학교
       year: 2019
 superuser: true
 highlight_name: false
-title: DongYoung Kim
+title: 김동영
 email: dongyoung.kim@yonsei.ac.kr
 ---
-My name is DongYoung Kim, research assistant of CIPLAB.  
-I received a bachelor's degree in computer science at Yonsei University, and Ph.D candidate of computer science, Yonsei University.  
-My main research interest is solving low level photography (ex. White Balance, Low Light Image Enhancement) problems using deep learning.
+CIPLAB 연구원 김동영입니다 :)  
+연세대학교 컴퓨터과학과엑서 학사 학위를 받았으며, 동대학 석/박사 통합과정 학생입니다.  
+주로 Low Level Photography (ex. 화이트밸런스, 저조도 이미지 개선) 에 관한 다양한 문제를 딥러닝을 이용하여 해결하는 연구를 합니다.
 
-{{< icon name="download" pack="fas" >}} Download my [CV](https://drive.google.com/file/d/1nk7aYiYmrUq6o-cf4qsn0cV9KE-28tqU/view?usp=sharing).
+{{< icon name="download" pack="fas" >}} CV [다운로드](https://drive.google.com/file/d/1nk7aYiYmrUq6o-cf4qsn0cV9KE-28tqU/view?usp=sharing).
