@@ -3,15 +3,15 @@ title: Large Scale Multi-Illuminant (LSMI) Dataset for Developing White Balance
   Algorithm under Mixed Illumination
 authors:
   - admin
-  - Jinwoo Kim
-  - Seonghyeon Nam
-  - Dongwoo Lee
-  - Yeonkyung Lee
-  - Nahyup Kang
-  - HyongEuk Lee
-  - Byungin Yu
-  - Jaejoon Han
-  - SeonJoo Kim
+  - 김진우
+  - 남성현
+  - 이동우
+  - 이연경
+  - 강나협
+  - 이형욱
+  - 유병인
+  - 한재준
+  - 김선주
 author_notes: []
 publication_short: ""
 abstract: We introduce a Large Scale Multi-Illuminant (LSMI) Dataset that
