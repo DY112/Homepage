@@ -41,7 +41,7 @@ highlight_name: false
 title: 김동영
 email: dongyoung.kim@yonsei.ac.kr
 ---
-CIPLAB 연구원 김동영입니다 :)  
+CIPLAB 연구원 김동영입니다 🧑🏻‍💻  
 연세대학교 컴퓨터과학과에서 학사 학위를 받았으며, 동대학 석/박사 통합과정 학생입니다.  
 주로 Low Level Photography (ex. 화이트밸런스, 저조도 이미지 개선 등) 에 관한 다양한 문제를  
 딥러닝을 이용하여 해결하는 연구를 합니다.
