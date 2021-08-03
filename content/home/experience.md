@@ -1,49 +1,34 @@
 ---
-# An instance of the Experience widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format for experience
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
-
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
     company: CIPLAB
-    company_url: 'https://sites.google.com/site/seonjookim'
+    company_url: https://sites.google.com/site/seonjookim
     company_logo: ciplab
     location: Seoul, Korea
-    date_start: '2019-08-01'
-    date_end: ''
-    description: |2-
+    date_start: 2019-08-01
+    date_end: ""
+    description: |-2
         Participated in the following projects:
         
         * Develpment of Noise Removal Algorithm in Road Image
         * Develpment of Spatially Varying Auto White Balance Algorithm
-        
   - title: Undergraduate Intern
     company: CIPLAB
-    company_url: 'https://sites.google.com/site/seonjookim'
+    company_url: https://sites.google.com/site/seonjookim
     company_logo: ciplab
     location: Seoul, Korea
-    date_start: '2019-01-01'
-    date_end: '2019-08-01'
+    date_start: 2019-01-01
+    date_end: 2019-08-01
     description: Conducted "GAN based Face aging algorithm" research.
-
+widget_id: experience
+headless: true
+weight: 40
+title: Experience
+subtitle: null
 design:
-  columns: '2'
+  columns: "2"
+  background:
+    image: skill.png
 ---
