@@ -5,7 +5,7 @@
 
 title: DongYoung Kim # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} DongYoung Kim'
 
 ############################
 ## LANGUAGE
