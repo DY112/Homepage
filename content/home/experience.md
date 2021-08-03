@@ -30,7 +30,7 @@ subtitle: null
 design:
   columns: "2"
   background:
-    image: exp.jpg
+    image:
     gradient_start:
     gradient_end: 
     text_color_light: false
