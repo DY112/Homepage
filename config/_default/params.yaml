@@ -115,7 +115,10 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 
+  disqus:
+    shortname: DongYoung Kim
+    show_count: true
   commentable:
     post: true
     book: true
