@@ -37,7 +37,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 1
   background:
     image: post_background.jpg
     gradient_start:
