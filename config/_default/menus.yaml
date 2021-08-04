@@ -16,9 +16,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 30
-  - name: Posts
-    url: '#posts'
-    weight: 40
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 40
   - name : Tags
     url: '/tags'
     weight : 50
