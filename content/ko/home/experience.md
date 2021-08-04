@@ -30,7 +30,7 @@ weight: 40
 title: 이력
 subtitle: null
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: exp.jpg
     gradient_start:
