@@ -43,5 +43,4 @@ design:
     image: #post_background.jpg
     gradient_start:
     gradient_end:
-    text_color_light: false
 ---
