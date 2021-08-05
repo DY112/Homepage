@@ -51,8 +51,8 @@ summary: We introduce a Large Scale Multi-Illuminant (LSMI) Dataset that
   contains 7,486 images, captured with three different cameras on more than
   2,700 scenes with two or three illuminants.
 url_dataset: ""
-url_project: "/project/developing-deep-spatially-varying-auto-white-balance-algorithm"
-url_source: "https://github.com/DY112/LSMI-dataset"
+url_project: ""
+url_source: ""
 url_video: ""
 publication: ICCV 2021
 featured: true
@@ -60,7 +60,7 @@ date: 2021-10-10T15:10:38.400Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/DY112/LSMI-dataset"
 doi: ""
 ---
 Supplementary materials will be updated soon, including online access to our LSMI dataset.
