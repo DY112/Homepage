@@ -35,6 +35,7 @@ tags:
   - ICCV
   - White Balance
   - Dataset
+  - LSMI
 projects:
   - Developing Deep Spatially Varying Auto White Balance Algorithm
 slides: ""
