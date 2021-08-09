@@ -26,7 +26,7 @@ ko:
       url: '#featured'
       weight: 30
     - name: 포스트
-      url: '#posts'
+      url: '/ko/post'
       weight: 40
     - name : 태그
       url: '/tags'
