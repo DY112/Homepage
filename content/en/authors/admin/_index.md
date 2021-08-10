@@ -38,7 +38,7 @@ education:
       year: 2019
 superuser: true
 highlight_name: false
-title: DongYoung Kim
+title: Dongyoung Kim
 email: dongyoung.kim@yonsei.ac.kr
 ---
 My name is DongYoung Kim, research assistant of CIPLAB. 🧑🏻‍💻  
