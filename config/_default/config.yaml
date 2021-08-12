@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DongYoung Kim # Website name
-baseurl: 'https://dykim.ml/' # Website URL
+baseurl: 'https://dykim.me/' # Website URL
 copyright: '© {year} DongYoung Kim'
 
 ############################
