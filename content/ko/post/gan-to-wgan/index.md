@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: GAN부터 WGAN까지
 subtitle: GAN의 기본과 다양한 해석, 그리고 WGAN까지 이어지는 간략한 설명
 
@@ -36,7 +36,7 @@ tags:
 - GAN
 
 categories:
---- -->
+---
 
 ## GAN 부터 WGAN 까지
 
