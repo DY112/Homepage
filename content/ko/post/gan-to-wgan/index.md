@@ -1,4 +1,4 @@
----
+<!-- ---
 title: GAN부터 WGAN까지
 subtitle: GAN의 기본과 다양한 해석, 그리고 WGAN까지 이어지는 간략한 설명
 
@@ -36,7 +36,7 @@ tags:
 - GAN
 
 categories:
----
+--- -->
 
 ## GAN 부터 WGAN 까지
 
@@ -63,7 +63,39 @@ GAN 의 loss함수는 real data distribution과  generated data distribution을 
     2번에서 말한 것 처럼 D가 완벽해지기 쉽다면, 손실함수는 점점 0에 가까워지며, 학습 과정에서 loss를 업데이트 할 수 있는 Generator gradient를 얻지 못해서 결국 학습이 종료됨.
 4. Mode collapse
     
-    Generator의 목표가 오로지 Discriminator를 속이는 데에는 성공했지만 실제 데이터의 매니폴드를 폭넓게 학습하지는 못한 상황. 극단적으로 낮은 다양성을 갖는 공간 내에 같혀버린 상황.
+    Generator의 목표가 오로지 Discriminator를 속이는 데에는 성공했지만 실제 데이터의 매니폴드를 폭넓게 학습하지는 못한 상황. 극단적으로 낮은 다양성을 갖는 공간 내에 갇혀버린 상황.
 5. Lack of a proper evalutaion metric
     
     Validation Metric이 없으므로 언제 학습을 중단해야하는지, 어떤 모델이 제일 나은지 판단하기 어렵다. (Unsupervised GAN의 경우)
+
+### Improved GAN training
+1. Feature Matching
+
+    Real data feature과 Fake data feature의 통계값을 일치시키는 방법
+
+2. Minibatch Discrimination
+
+    Discriminator 가 각 데이터를 독립적으로 처리하지 않고 배치 내에서 각 샘플들 간의 관계를 고려한다.
+    하나의 미니배치 내에서 각 샘플들 간의 유사도까지 같이 입력으로 받아 학습된다
+
+3. Historical Averaging
+
+    G와 D모두에 추가하는 loss term으로, 파라미터가 급격히 변화하는 것에 대한 패널티를 주는 방식이라고 함
+
+4. One-sided Label Smoothing
+
+    D 라벨로 0&1을 사용하지 않고 0.1&0.9를 사용하면 모델 불안정성이 감소된다고 함
+
+5. Virtual Batch Normalization
+
+    미니배치 Normalization시, 그 배치 기준으로 진행하는 것이 아닌, 학습 초기에 한번 선별해둔 고정된 배치에 대해서 normalization 함. (정적 normalization)
+
+6. Adding Noises
+
+    Low dimensional supports 에서 말한 것 처럼 Pr 과 Pg는 고차원공간에서 서로 겹치지 않고(disjoint), 그 때문에 그라디언트가 사라지는 문제가 발생한다.
+    따라서 두 확률분포가 겹칠 확률을 높이기 위해서 D의 인풋에 인위적으로 노이즈 값을 추가한다.
+
+7. Use Better Metric of Distribution Similarity
+
+    Vanilla GAN의 손실함수는 Pr 과 Pg 의 JS Divergence를 측정하는 것이다. 이 Metric은 두 분포의 Support가 겹치지 않을 때 의미있는 값을 가지지 않는다.
+    이를 해결하기 위해 Wasserstein metric을 사용할 수 있다. 이 metric은 JS divergence보다 더 연속적인 값의 범위를 갖고 있다.
