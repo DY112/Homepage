@@ -50,16 +50,16 @@ image:
 summary: We introduce a Large Scale Multi-Illuminant (LSMI) Dataset that
   contains 7,486 images, captured with three different cameras on more than
   2,700 scenes with two or three illuminants.
-url_dataset: "https://www.kaggle.com/ciplab/datasets"
+url_dataset: "https://drive.google.com/drive/folders/1m0Jt6vTkRJi_iMDDnhcW79QmE48MGVUP"
 url_project: ""
 url_source: ""
-url_video: ""
+url_video: "https://youtu.be/i8OAdYryig0"
 publication: ICCV 2021
 featured: true
 date: 2021-10-10T15:10:38.400Z
-url_slides: ""
+url_slides: "https://drive.google.com/file/d/1-lUWaQ-DpTppwYVW9Yq0Qtfo-zlaZ2mO/view?usp=sharing"
 publishDate: 2017-01-01T00:00:00.000Z
-url_poster: ""
+url_poster: "https://drive.google.com/file/d/1JolnEDFUSpGGWsjTnH9NiDjcpvPOdqdB/view?usp=sharing"
 url_code: "https://github.com/DY112/LSMI-dataset"
 doi: ""
 ---
