@@ -13,7 +13,7 @@ social:
     link: mailto:dongyoung.kim@yonsei.ac.kr
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/
+    link: https://scholar.google.co.kr/citations?hl=ko&user=grONfIQAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/DY112
