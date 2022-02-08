@@ -63,4 +63,3 @@ url_poster: "https://drive.google.com/file/d/1JolnEDFUSpGGWsjTnH9NiDjcpvPOdqdB/v
 url_code: "https://github.com/DY112/LSMI-dataset"
 doi: ""
 ---
-Supplementary materials will be updated soon, including online access to our LSMI dataset.
